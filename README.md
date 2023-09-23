@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="/output/github-snake.svg">
 </picture>
 
-![](https://raw.githubusercontent.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
 
