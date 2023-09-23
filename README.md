@@ -25,5 +25,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![](https://raw.githubusercontent.com/2exd/2exd/main/assets/github-contribution-grid-snake.svg)
-
