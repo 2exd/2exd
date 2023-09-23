@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png" /> </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
-  <img alt="github-snake" src="/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ![](https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
