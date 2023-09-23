@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);2exd祝您今天愉快!&center=true&size=27"> </a> </h1>
-
+  <div align="center">
+    <a href="https://github.com/2exd/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);2exd祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png" /> </div>
