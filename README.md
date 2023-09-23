@@ -26,3 +26,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
   <img alt="github-snake" src="/output/github-snake.svg">
 </picture>
+
+![](https://raw.githubusercontent.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg)
+
