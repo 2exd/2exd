@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);2exd祝您今天愉快!&center=true&size=27"> </a> </h1>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png)
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png" /> </div>
