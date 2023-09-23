@@ -20,6 +20,10 @@ Here are some ideas to get you started:
     </a>
   </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png" /> </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ![](https://raw.githubusercontent.com/2exd/2exd/main/assets/github-contribution-grid-snake.svg)
 
