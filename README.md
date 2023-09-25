@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <style>
   .activity-image {
-    width: 1000px;
+    width: 800px;
     height: 600px;
   }
 </style>
