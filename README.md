@@ -19,18 +19,15 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);2exd祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png" /> </div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=github&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=xcode&hide_border=true" />
   <img class="activity-image" alt="2exd's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=github&hide_border=true" />
 </picture>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2exd&theme=tokyonight-duo&type=png" /> </div>
+
