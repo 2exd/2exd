@@ -27,3 +27,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+![2exd's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=2exd&theme=xcode)]
