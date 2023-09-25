@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://github.com/2exd/2exd/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-![2exd's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=2exd&theme=xcode)]
+[![2exd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2exd)](https://github.com/2exd/github-readme-activity-graph)
