@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=xcode" />
-  <img alt="2exd's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=github&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=xcode&area=true&hide_border=true" />
+  <img alt="2exd's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2exd&theme=github&area=true&hide_border=true" />
 </picture>
